@@ -1,34 +1,30 @@
-# federated_learning
+# Federated Learning
 
 
-![Banner](assets/inat_2021_banner.jpg)
 
-# iNaturalist 2021 Competition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------
+
+# Dataset
+
+
+## iNaturalist 2021 Competition
 The 2021 competition is part of the [FGVC^8 workshop](https://sites.google.com/view/fgvc8/home) at [CVPR](http://cvpr2021.thecvf.com/).
 
-Please open an issue if you have questions or problems with the dataset.
-
-## Updates
-March 3, 2021:
-  * Updating evaluation metric, and launching [Kaggle competition](https://www.kaggle.com/c/inaturalist-2021).
-
-March 2, 2021:
-  * Adding dataset download links.
-
-February 24, 2021:
-  * Including dataset description and figures.
-
-February 13, 2021:
-  * Mocking up 2021 page. Preparing dataset files. 
-
-## Kaggle
-We are using Kaggle to host the leaderboard. Checkout the competition page [here](https://www.kaggle.com/c/inaturalist-2021).
-
-## Dates
-|||
-|------|---------------|
-Dataset Released |March, 2021|
-Submission Server Open |March, 2021|
 
 ## Details
 There is a total of 10,000 species in the dataset. The full training dataset contains nearly 2.7M images. To make the dataset more accessible we have also created a "mini" training dataset with 50 examples per species for a total of 500K images. Each species has 10 validation images. There are a total of 500,000 test images. 
